@@ -1,7 +1,7 @@
 title: Hacker-Blog
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
+  name: "JohnThunder"
   email: "someone@somewebsite.somedomain"
   url: "https://ashishchaudhary.in/hacker-blog"
 
@@ -26,7 +26,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-admin
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "thunder"
+year : "2021"
